@@ -1,4 +1,4 @@
-[[!MasterHead](https://github.com/Shahnawaz0Akhtar/Shahnawaz0Akhtar/blob/main/banner.gif)]
+![logo](https://github.com/Shahnawaz0Akhtar/Shahnawaz0Akhtar/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Shahnawaz Akhtar</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://github.com/Shahnawaz0Akhtar/Shahnawaz0Akhtar/blob/main/a.gif">
