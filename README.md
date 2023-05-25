@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/shahnawaz-akhtar-67a5b8211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnawaz-akhtar-67a5b8211" height="30" width="40" /></a>
 <a href="https://fb.com/shahnawaz__arab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnawaz__arab" height="30" width="40" /></a>
 <a href="https://instagram.com/shahnawaz__arab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahnawaz__arab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@a-coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@a-coding" height="30" width="40" /></a>
+<a href="https://youtube.com/@a-coding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@a-coding" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
